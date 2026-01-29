@@ -1,5 +1,6 @@
 import streamlit as st
-from predictor import predict_k1, predict_k2
+from predictor import prever_k1, prever_k2
+
 
 st.set_page_config(page_title="k1 and k2 Prediction", layout="centered")
 
